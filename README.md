@@ -3,7 +3,8 @@
 
 
 # Lending Club Case Study
-> Understanding of risk analytics in Banking and Financial services and Understand how data is used to minimise the risk of losing money while lending to customers.
+* Understanding of risk analytics in Banking and Financial services.
+* Understand how data is used to minimize the risk of losing money while lending loans to customers.
 
 
 ## Table of Contents
