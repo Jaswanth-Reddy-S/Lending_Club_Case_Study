@@ -15,7 +15,7 @@
 
 ## General Information
 Background of this project:
-- There are two types of risks are associated with the bank’s decision while lending loans:
+- When ever lending a loan to borrower there will be  two types of risks are associated with the bank’s decision while lending loans:
 1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
